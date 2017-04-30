@@ -1,0 +1,22 @@
+AR Feature Goals
+
+Edit, Test, Launch itself into new version with maintained state.
+- Identify edits to it's source code
+- Clone, branch, edit, test, commit, merge, launch, test, verify state, report back to initial running version, stop.
+- Initial version cleans up, launches new version, stops.
+
+
+Machine and Environment monitoring, safety, security, redundancy, uptime guaranteed.
+
+
+Skill Types
+Awareness Types
+Interaction Types
+Knowledge Types
+Operation Mode Types
+Maintenance Types
+Tool Utility Types
+Rating Level Types
+Rating Amount Types
+Rating Weight Types
+
